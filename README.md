@@ -1,6 +1,6 @@
 # EPICODUS STUDENT PROJECT | Modern JS Apps API-Driven App
 
-#### Google, August 3, 2016
+#### Google, August 4, 2016
 
 #### By _**Lauren Posey & Maldon Meehan, Epicodus**_
 
